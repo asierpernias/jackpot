@@ -91,12 +91,12 @@ function iniciar() {
 
 function actualizarMonedas() {
     sprMonedas.image.fill(0)
-    sprMonedas.image.print("Coins -> " + monedas, 2, 1, 5)
+    sprMonedas.image.print("Coins -> " + monedas, 2, 1, 4)
 }
 
 function setMensaje(texto: string) {
     sprMensaje.image.fill(0)
-    sprMensaje.image.print(texto, 2, 1, 5)
+    sprMensaje.image.print(texto, 2, 1, 4)
 }
 
 function animarGiro() {
