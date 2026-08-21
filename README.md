@@ -1,26 +1,15 @@
- 
+# **JACKPOT**
+
+Jackpot is a simple game made in makecode where you have to keep rolling a slot machine in order to get as many coins as possible, while trying to evit to loose all your money.
+
+## How to play it?
+(Try it here!)[https://arcade.makecode.com/S39356-12760-17049-55557]
 
 
-> Open this page at [https://asierpernias.github.io/jackpot/](https://asierpernias.github.io/jackpot/)
+## Screenshot
+<img width="893" height="674" alt="image" src="https://github.com/user-attachments/assets/88996555-8657-4960-9217-8a1de4ed00e9" />
 
-## Use as Extension
+## License
+This proyect is under the MIT License.
 
-This repository can be added as an **extension** in MakeCode.
 
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/asierpernias/jackpot** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/asierpernias/jackpot** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
