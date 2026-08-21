@@ -3,7 +3,7 @@
 Jackpot is a simple game made in makecode where you have to keep rolling a slot machine in order to get as many coins as possible, while trying to evit to loose all your money.
 
 ## How to play it?
-(Try it here!)[https://arcade.makecode.com/S39356-12760-17049-55557]
+[Try it here!](https://arcade.makecode.com/S39356-12760-17049-55557)
 
 
 ## Screenshot
